@@ -13,6 +13,10 @@ Foi utilizado o Laravel e o Eloquent como ORM.
 
 Observações:
 
+É necessário criar o bd e rodas as migrations
+
+As validações estão sendo feitas via FormRequest
+
 Por causa de uma particularidade do PHP, as rotas de tipo PATCH, é necessário
 enviar os dados em formato JSON.
 
