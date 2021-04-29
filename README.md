@@ -6,7 +6,7 @@ ApiRESTful Laravel
 
 
 
-As rotas estão autenticadas, sendo necessário realizar o login pela rota url/api/login/ e informar o token de retorno a cada requisição. Login: admin / Senha: admin
+As rotas estão autenticadas, sendo necessário realizar o login pela rota url/api/login/ e informar o token de retorno a cada requisição. Login: admin@admin.com / Senha: admin
 
 Estes virão pré-cadastrados pelo seeder, bastando executar o comando: 'php artisan db:seed'
 
