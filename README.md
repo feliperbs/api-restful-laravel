@@ -14,10 +14,11 @@ Foi utilizado o Laravel e o Eloquent como ORM.
 
 Observações:
 
-É necessário criar o bd e rodas as migrations
+<b>É necessário criar o bd e rodas as migrations</b>
 
-As validações estão sendo feitas via FormRequest
+<b>As validações estão sendo feitas via FormRequest</b>
 
-Por causa de uma particularidade do PHP, as rotas de tipo PATCH, é necessário enviar os dados em formato JSON.
+<b>Por causa de uma particularidade do PHP, as rotas de tipo PATCH, é necessário enviar os dados em formato JSON.</b>
 
-Por estar com as rotas autenticadas, é necessário rodar o comando 'php artisan passport:install' para gerar a chave de autenticação.
+<b>Por estar com as rotas autenticadas, é necessário rodar o comando 'php artisan passport:install' para gerar a chave de autenticação.
+</b>
