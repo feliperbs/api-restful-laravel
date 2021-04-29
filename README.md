@@ -1,7 +1,10 @@
-api-restful-laravel
+##api-restful-laravel
 ApiRESTful Laravel
 
-Api Restful em Laravel de acordo com as especificações:
+## Descrição do Projeto
+<p align="center">Api Restful em Laravel de acordo com as especificações:</p>
+
+
 
 As rotas estão autenticadas, sendo necessário realizar o login pela rota url/api/login/ e informar o token de retorno a cada requisição. Login: admin / Senha: admin
 
